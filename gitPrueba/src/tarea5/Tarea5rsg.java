@@ -4,7 +4,7 @@ package tarea5;
 import java.util.Scanner;
 
 
-
+/*una pequeña modiicación*/
 class SelectionSort {
 	public void sortArray(int[] array) {
 		for (int i = array.length - 1; i > 0; i--) {
